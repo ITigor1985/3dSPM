@@ -3,7 +3,7 @@
     "version": "1.1.0",
     "description": "",
     "main": "index.js",
-    "homepage": "https://ITigor1985.github.io/3dSPM/",
+    "homepage": "https://ITigor1985.github.io/3dSPM",
     "scripts": {
         "dev": "parcel src/*.html",
         "build": "parcel build src/*.html --public-url /3dSPM/"
@@ -13,7 +13,11 @@
         "url": "git+https://github.com/ITigor1985/3dSPM.git"
     },
     "keywords": [],
+    "author": "Igor Tarasov>",
     "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    },
     "devDependencies": {
         "parcel-bundler": "^1.12.5",
         "parcel-plugin-handlebars-precompile": "^1.0.2",
